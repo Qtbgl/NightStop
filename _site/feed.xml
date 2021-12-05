@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-04T23:11:28+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NightStop</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">分享一篇</title><link href="http://localhost:4000/life/2021/12/04/the-second-article.html" rel="alternate" type="text/html" title="分享一篇" /><published>2021-12-04T22:59:50+08:00</published><updated>2021-12-04T22:59:50+08:00</updated><id>http://localhost:4000/life/2021/12/04/the-second-article</id><content type="html" xml:base="http://localhost:4000/life/2021/12/04/the-second-article.html">&lt;h1 id=&quot;沙丘&quot;&gt;沙丘&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/NightStop/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/NightStop/" rel="alternate" type="text/html" /><updated>2021-12-06T00:23:18+08:00</updated><id>http://localhost:4000/NightStop/feed.xml</id><title type="html">NightStop</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">分享一篇</title><link href="http://localhost:4000/NightStop/life/2021/12/04/the-second-article.html" rel="alternate" type="text/html" title="分享一篇" /><published>2021-12-04T22:59:50+08:00</published><updated>2021-12-04T22:59:50+08:00</updated><id>http://localhost:4000/NightStop/life/2021/12/04/the-second-article</id><content type="html" xml:base="http://localhost:4000/NightStop/life/2021/12/04/the-second-article.html">&lt;h1 id=&quot;沙丘&quot;&gt;沙丘&lt;/h1&gt;
 
 &lt;p&gt;作者：[美]弗兰克·赫伯特&lt;/p&gt;
 
@@ -165,7 +165,7 @@
 
 &lt;p&gt;“我饿了。”男爵低声道。他抬起那只戴着戒指的手，擦了擦凸出的嘴唇，那双围满肥肉的眼睛盯着菲德-罗萨。“亲爱的，叫人送饭来。我们吃好饭再就寝。”&lt;/p&gt;
 
-&lt;p&gt;上一章：&lt;a href=&quot;https://www.mengruan.com/shaqiu/94633.htm&quot;&gt;第二节 · 1&lt;/a&gt;下一章：&lt;a href=&quot;https://www.mengruan.com/shaqiu/94638.htm&quot;&gt;第三节&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="life" /><summary type="html">沙丘</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2021/12/04/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-12-04T20:39:50+08:00</published><updated>2021-12-04T20:39:50+08:00</updated><id>http://localhost:4000/jekyll/update/2021/12/04/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2021/12/04/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;上一章：&lt;a href=&quot;https://www.mengruan.com/shaqiu/94633.htm&quot;&gt;第二节 · 1&lt;/a&gt;下一章：&lt;a href=&quot;https://www.mengruan.com/shaqiu/94638.htm&quot;&gt;第三节&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="life" /><summary type="html">沙丘</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/NightStop/jekyll/update/2021/12/04/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-12-04T20:39:50+08:00</published><updated>2021-12-04T20:39:50+08:00</updated><id>http://localhost:4000/NightStop/jekyll/update/2021/12/04/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/NightStop/jekyll/update/2021/12/04/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
@@ -181,6 +181,72 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">我的第一篇文章</title><link href="http://localhost:4000/life/2018/08/14/my-first-article.html" rel="alternate" type="text/html" title="我的第一篇文章" /><published>2018-08-14T00:00:00+08:00</published><updated>2018-08-14T00:00:00+08:00</updated><id>http://localhost:4000/life/2018/08/14/my-first-article</id><content type="html" xml:base="http://localhost:4000/life/2018/08/14/my-first-article.html">&lt;p&gt;这是我的第一篇文章&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">A fairy tale</title><link href="http://localhost:4000/NightStop/life/2020/02/01/Starry-dream-catcher.html" rel="alternate" type="text/html" title="A fairy tale" /><published>2020-02-01T00:00:00+08:00</published><updated>2020-02-01T00:00:00+08:00</updated><id>http://localhost:4000/NightStop/life/2020/02/01/Starry-dream-catcher</id><content type="html" xml:base="http://localhost:4000/NightStop/life/2020/02/01/Starry-dream-catcher.html">&lt;h1 id=&quot;星空捕梦人&quot;&gt;星空捕梦人&lt;/h1&gt;
 
-&lt;p&gt;有没有被追踪？&lt;/p&gt;</content><author><name></name></author><category term="life" /><summary type="html">这是我的第一篇文章</summary></entry></feed>
+&lt;p&gt;类型：科幻&lt;/p&gt;
+
+&lt;p&gt;作者：关德深（概率微笑）&lt;/p&gt;
+
+&lt;p&gt;转载：科幻世界 2020年2期&lt;/p&gt;
+
+&lt;p&gt;关键词： 阿爸 阿妈 渔船&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20190718/c3949a615801458593a9dade2312365b.webp&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关德深（概率微笑）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;硅基文明降临后，月亮湾的渔家就改了晚上下水。发现外星人这事的是明仔，那晚他喝多了水，起床小便时发现月亮湾上浮起巨型机械生物。那些圆头圆脑的家伙似乎和渔船上的大人交易着什么。&lt;/p&gt;
+
+&lt;p&gt;阿妈和往常一样，哼着童谣哄我入睡：&lt;/p&gt;
+
+&lt;p&gt;月光光照地堂&lt;/p&gt;
+
+&lt;p&gt;虾仔你乖乖瞓落床&lt;/p&gt;
+
+&lt;p&gt;听朝阿爸要捕鱼虾啰&lt;/p&gt;
+
+&lt;p&gt;阿嬷织网要织到天光①&lt;/p&gt;
+
+&lt;p&gt;孩子们推举一向胆大的我查明此事。我假装睡着，趁阿妈出房后翻窗出外，蹑手蹑脚穿过屋前晾满莞草的地堂。夜空繁星点点，月光皎洁，趁着月色我跳上自家渔船藏了起来。&lt;/p&gt;
+
+&lt;p&gt;我在船上睡着了，醒来后盖着阿爸的外套。阿爸背对着我，手握船櫓，却听不到划水声。船快速行驶，却不在水面，而在天上！一些光球不断从船舷飞过。阿妈站在船头，朝光球密集的区域抛网。&lt;/p&gt;
+
+&lt;p&gt;“阿爸，那些光球是星星吗？”我问。&lt;/p&gt;
+
+&lt;p&gt;“那是梦泡，每个梦泡都装着一个梦。”阿爸说。&lt;/p&gt;
+
+&lt;p&gt;阿妈把捕获的梦泡拖进船舱。梦很轻，散发柔光，泡内可见活动的梦境。梦泡触碰人手后会慢慢变小，成了鸡蛋大小的发光物。阿爸和我一起把影像跳跃、色彩变幻的梦泡放进一个口袋，这是孩子的梦。把影像稳定、色彩暗淡的放进另一个口袋，这是大人的梦。夜风清冷，爸妈轮流撒网，把我留在船舱，直到东方发白才驾船归去。&lt;/p&gt;
+
+&lt;p&gt;一艘艘渔船从天而降，在清晨的月亮湾水面拉起长长的水纹。那些与黎明同色的机械生物立在水中，和大人们交割货物。阿爸告诉我，它们是来自银河远方的终极文明，用泡技术封装人类的梦，再吸收进藏在水下的泡系统。人类的想象力超过硅基文明的预判，深夜造梦峰值至泡系统过载，大量梦泡溢出，漂浮到天空。&lt;/p&gt;
+
+&lt;p&gt;我抬起头，分不清天上的是星星还是梦，只见它们在曙光下越发稀薄。阿爸已交易完，他告诉我天上漏网的梦泡都会在阳光下化作尘埃，洒落大地。&lt;/p&gt;
+
+&lt;p&gt;“梦泡碎后，人就不记得做过的梦了”，阿妈摸着我脸，我不懂她的忧伤，只是抱紧她的腿。太阳出来后机械生物慢慢潜入水底，新的一天开始了。&lt;/p&gt;
+
+&lt;p&gt;长大后我才明白。人在屋檐下，不得不低头，文明亦如此。在终极文明面前，不委屈求存，就会毁灭。文明硅基化后获得永生，却停了进化，因为机械不会做梦。所以它们就来抢梦。它们把人类的梦抢走，阅读梦境后又把梦泡破坏，利用“梦境纠缠”①现象同步消除了人类关于梦的记忆。&lt;/p&gt;
+
+&lt;p&gt;又过了很多年，我在爸妈床底的木箱里发现了许许多多光球，是无数孩子的梦。我才发觉自己的确记得小时候做过的梦，只是爸妈走了以后，就不再有梦了。&lt;/p&gt;
+
+&lt;p&gt;长大的我没像童年梦想那样，成为科学家或者宇航员。我成了一个普通人，向硅基文明租一艘星船，每晚捕获些梦泡换取生活物资。它们给的报酬很低，无梦人的汗水不值钱。只是无论如何困难，我都会把孩子们的梦留下，小心收好。&lt;/p&gt;
+
+&lt;p&gt;因为梦越大，人生就越大，文明亦如此。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.cdstm.cn/theme/khsj/khzx/khcb/202003/W020200303580059533938.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;科幻世界 2020年2期&lt;/p&gt;
+
+  &lt;h3 id=&quot;其他文章&quot;&gt;其他文章&lt;/h3&gt;
+
+  &lt;p&gt;赎身&lt;/p&gt;
+
+  &lt;p&gt;茉莉的短讯&lt;/p&gt;
+
+  &lt;p&gt;斗犬&lt;/p&gt;
+
+  &lt;p&gt;它的回忆&lt;/p&gt;
+
+  &lt;p&gt;快乐的马赛克&lt;/p&gt;
+
+  &lt;p&gt;爱的涅槃&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="life" /><summary type="html">星空捕梦人</summary></entry></feed>
