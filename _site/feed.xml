@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/NightStop/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/NightStop/" rel="alternate" type="text/html" /><updated>2021-12-06T00:23:18+08:00</updated><id>http://localhost:4000/NightStop/feed.xml</id><title type="html">NightStop</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">分享一篇</title><link href="http://localhost:4000/NightStop/life/2021/12/04/the-second-article.html" rel="alternate" type="text/html" title="分享一篇" /><published>2021-12-04T22:59:50+08:00</published><updated>2021-12-04T22:59:50+08:00</updated><id>http://localhost:4000/NightStop/life/2021/12/04/the-second-article</id><content type="html" xml:base="http://localhost:4000/NightStop/life/2021/12/04/the-second-article.html">&lt;h1 id=&quot;沙丘&quot;&gt;沙丘&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/NightStop/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/NightStop/" rel="alternate" type="text/html" /><updated>2021-12-06T20:17:21+08:00</updated><id>http://localhost:4000/NightStop/feed.xml</id><title type="html">NightStop</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">分享一篇</title><link href="http://localhost:4000/NightStop/life/2021/12/04/the-second-article.html" rel="alternate" type="text/html" title="分享一篇" /><published>2021-12-04T22:59:50+08:00</published><updated>2021-12-04T22:59:50+08:00</updated><id>http://localhost:4000/NightStop/life/2021/12/04/the-second-article</id><content type="html" xml:base="http://localhost:4000/NightStop/life/2021/12/04/the-second-article.html">&lt;h1 id=&quot;沙丘&quot;&gt;沙丘&lt;/h1&gt;
 
 &lt;p&gt;作者：[美]弗兰克·赫伯特&lt;/p&gt;
 
@@ -181,9 +181,7 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">A fairy tale</title><link href="http://localhost:4000/NightStop/life/2020/02/01/Starry-dream-catcher.html" rel="alternate" type="text/html" title="A fairy tale" /><published>2020-02-01T00:00:00+08:00</published><updated>2020-02-01T00:00:00+08:00</updated><id>http://localhost:4000/NightStop/life/2020/02/01/Starry-dream-catcher</id><content type="html" xml:base="http://localhost:4000/NightStop/life/2020/02/01/Starry-dream-catcher.html">&lt;h1 id=&quot;星空捕梦人&quot;&gt;星空捕梦人&lt;/h1&gt;
-
-&lt;p&gt;类型：科幻&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">A fairy tale</title><link href="http://localhost:4000/NightStop/life/2021/12/01/Starry-dream-catcher.html" rel="alternate" type="text/html" title="A fairy tale" /><published>2021-12-01T00:00:00+08:00</published><updated>2021-12-01T00:00:00+08:00</updated><id>http://localhost:4000/NightStop/life/2021/12/01/Starry-dream-catcher</id><content type="html" xml:base="http://localhost:4000/NightStop/life/2021/12/01/Starry-dream-catcher.html">&lt;h1 id=&quot;星空捕梦人&quot;&gt;星空捕梦人&lt;/h1&gt;
 
 &lt;p&gt;作者：关德深（概率微笑）&lt;/p&gt;
 
@@ -193,7 +191,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20190718/c3949a615801458593a9dade2312365b.webp&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;关德深（概率微笑）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;关德深概率微笑&quot;&gt;关德深（概率微笑）&lt;/h3&gt;
 
 &lt;p&gt;硅基文明降临后，月亮湾的渔家就改了晚上下水。发现外星人这事的是明仔，那晚他喝多了水，起床小便时发现月亮湾上浮起巨型机械生物。那些圆头圆脑的家伙似乎和渔船上的大人交易着什么。&lt;/p&gt;
 
@@ -229,24 +227,4 @@
 
 &lt;p&gt;长大的我没像童年梦想那样，成为科学家或者宇航员。我成了一个普通人，向硅基文明租一艘星船，每晚捕获些梦泡换取生活物资。它们给的报酬很低，无梦人的汗水不值钱。只是无论如何困难，我都会把孩子们的梦留下，小心收好。&lt;/p&gt;
 
-&lt;p&gt;因为梦越大，人生就越大，文明亦如此。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.cdstm.cn/theme/khsj/khzx/khcb/202003/W020200303580059533938.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;科幻世界 2020年2期&lt;/p&gt;
-
-  &lt;h3 id=&quot;其他文章&quot;&gt;其他文章&lt;/h3&gt;
-
-  &lt;p&gt;赎身&lt;/p&gt;
-
-  &lt;p&gt;茉莉的短讯&lt;/p&gt;
-
-  &lt;p&gt;斗犬&lt;/p&gt;
-
-  &lt;p&gt;它的回忆&lt;/p&gt;
-
-  &lt;p&gt;快乐的马赛克&lt;/p&gt;
-
-  &lt;p&gt;爱的涅槃&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="life" /><summary type="html">星空捕梦人</summary></entry></feed>
+&lt;p&gt;因为梦越大，人生就越大，文明亦如此。&lt;/p&gt;</content><author><name></name></author><category term="life" /><summary type="html">星空捕梦人</summary></entry></feed>
