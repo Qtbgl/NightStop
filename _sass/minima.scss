@@ -2,24 +2,17 @@
 
 // Define defaults for each variable.
 @font-face{
-	font-family: ownFont-msyhl;
-	src: url("../assets/msyhl.ttc") format("truetype");
-}
-@font-face{
 	font-family: ownFont-Inkfree;
 	src: url("../assets/Inkfree.ttf") format("truetype");
 }
 //自添加的css代码
 
-$base-font-family: ownFont-msyhl, ownFont-Inkfree !default;
-// 字体类型，如等宽字体: Monospace，靠前的优先。
+$base-font-family: ownFont-Inkfree, Monospace, BlinkMacSystemFont !default; // 字体类型，如等宽字体: Monospace，靠前的优先。
 // 原来的是: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$base-font-size:   17px !default;
-// 字体大小，原来的是: 16px !default;
-$base-font-weight: 400 !default;
+$base-font-size:   17px !default; // 字体大小，原来的是: 16px !default;
+$base-font-weight: 200 !default;  // 字体粗细，原来的是: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.7 !default;  
-// 行间距，原来的是1.5 !default
+$base-line-height: 1.7 !default;  // 行间距，原来的是1.5 !default
 
 $spacing-unit:     30px !default;
 

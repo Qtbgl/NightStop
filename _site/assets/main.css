@@ -1,12 +1,10 @@
-@font-face { font-family: ownFont-msyhl; src: url("../assets/msyhl.ttc") format("truetype"); }
-
 @font-face { font-family: ownFont-Inkfree; src: url("../assets/Inkfree.ttf") format("truetype"); }
 
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Basic styling */
-body { font: 400 17px/1.7 ownFont-msyhl, ownFont-Inkfree; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+body { font: 200 17px/1.7 ownFont-Inkfree, Monospace, BlinkMacSystemFont; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 30px; }
@@ -28,7 +26,7 @@ ul, ol { margin-left: 30px; }
 li > ul, li > ol { margin-bottom: 0; }
 
 /** Headings */
-h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+h1, h2, h3, h4, h5, h6 { font-weight: 200; }
 
 /** Links */
 a { color: #2a7ae2; text-decoration: none; }
