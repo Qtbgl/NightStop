@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A fairy tale
+title: 一篇微小说
 date: 2021-12-01
 categories: life
 source: 科幻世界 2020年2期

@@ -24,7 +24,7 @@ description:
 quotes: >- # this means to ignore newlines until "baseurl:"
     一艘艘渔船从天而降，在清晨的月亮湾水面拉起长长的水纹。
     那些与黎明同色的机械生物立在水中，和大人们交割货物。
-quotes-from: 星空捕梦人
+quotes-from: Starry Dream Catcher
 declaration: 此内容来源自网络，供圈内分享。
 baseurl: "/NightStop" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
