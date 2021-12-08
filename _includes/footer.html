@@ -10,8 +10,8 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.quotes -%}
-              {{ site.quotes-from | escape }}
+            {%- if page.quotes -%}
+              {{ page.quotes-from | escape }}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
@@ -23,7 +23,11 @@
       </div>
 	  
 	  <div class="footer-col footer-col-3">
-        <p>{{- site.quotes | escape -}}</p>
+		{%- if page.quotes -%}
+			<p>{{- page.quotes | escape -}}</p>
+		{%- else -%}
+			<p>{{- site.declaration | escape -}}</p>
+		{%- endif -%}
       </div>
 
       <!--<div class="footer-col footer-col-2">
