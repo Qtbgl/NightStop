@@ -228,6 +228,15 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  
+  font: $base-font-weight #{$base-font-size}/#{$post-content-line-height} $base-font-family;
+  // 自定义文章中字体样式，覆盖_base.scss中的定义。
+  
+  h1, h2, h3, h4, h5, h6, p {
+	margin-bottom: $spacing-unit ;  
+  }
+  // 自定义文章中对象之间间距，覆盖_base.scss中的定义。
+  
 
   h2 {
     @include relative-font-size(2);

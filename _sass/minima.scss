@@ -12,9 +12,10 @@ $base-font-family: ownFont-Inkfree, Monospace, BlinkMacSystemFont !default; // �
 $base-font-size:   17px !default; // 字体大小，原来的是: 16px !default;
 $base-font-weight: 300 !default;  // 字体粗细，原来的是: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.6 !default;  // 行间距，原来的是1.5 !default
+$base-line-height: 1.5 !default;  // 行间距，原来的是1.5 !default
+$post-content-line-height: 1.6 !default; // 自定义内容区行间距
 
-$spacing-unit:     30px !default;
+$spacing-unit:     30px !default; // 对象之间距离，原来是30px !default
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
