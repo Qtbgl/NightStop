@@ -12,8 +12,11 @@
         {{ content }}
       </div>
     </main>
-
-    {%- include footer.html -%}
+	{%- if page.article -%}
+		{%- include end.html -%}
+	{%- else -%}
+		{%- include footer.html -%}
+	{%- endif -%}
 
   </body>
 
